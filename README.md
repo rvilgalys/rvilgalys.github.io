@@ -1,2 +1,2 @@
-# rvilgalys.github.io
-personal github page
+# rvilgalys
+github page
